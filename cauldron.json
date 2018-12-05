@@ -25,5 +25,13 @@
       ]
     }
   ],
-  "schemaVersion": "2.0.0"
+  "schemaVersion": "2.0.0",
+  "config": {
+    "manifest": {
+      "override": {
+        "url": "git@github.com:jduthon/ern-cauldron-test.git",
+        "type": "partial"
+      }
+    }
+  }
 }
