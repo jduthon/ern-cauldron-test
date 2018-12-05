@@ -29,7 +29,7 @@
   "config": {
     "manifest": {
       "override": {
-        "url": "git@github.com:jduthon/ern-cauldron-test.git",
+        "url": "git@github.com:jduthon/ern-manifet-override-test.git",
         "type": "partial"
       }
     }
