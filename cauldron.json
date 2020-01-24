@@ -25,13 +25,5 @@
       ]
     }
   ],
-  "schemaVersion": "2.0.0",
-  "config": {
-    "manifest": {
-      "override": {
-        "url": "git@github.com:jduthon/ern-manifet-override-test.git",
-        "type": "partial"
-      }
-    }
-  }
+  "schemaVersion": "3.0.0"
 }

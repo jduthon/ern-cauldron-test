@@ -1,0 +1,8 @@
+{
+  "manifest": {
+    "override": {
+      "url": "git@github.com:babbel/electrode-native-manifest.git",
+      "type": "partial"
+    }
+  }
+}
